@@ -1,3 +1,3 @@
 # Hyperdrive
 
-A fullscreen canvas with nodes from vanilla js
+A fullscreen canvas with nodes, vanilla js
